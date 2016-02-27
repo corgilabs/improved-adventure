@@ -1,3 +1,3 @@
 # improved-adventure
 
-a
+ab
